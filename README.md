@@ -5,6 +5,7 @@
 **Paper:** EMONA: Event-level Moral Opinions in News Articles<br/>
 **Accepted:** The 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024)<br/>
 **Authors:** Yuanyuan Lei, Md Messal Monem Miah, Ayesha Qamar, Sai Ramana Reddy, Jonathan Tong, Haotian Xu, Ruihong Huang<br/>
+**Affiliation:** Department of Computer Science and Engineering, Texas A&M University, College Station, Texas, USA<br/>
 **Paper Link:** paper link coming soon
 
 <br/>
