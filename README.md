@@ -9,13 +9,13 @@
 
 <br/>
 
-## Dataset Overview
+# Dataset Overview
 
 The EMONA dataset is the first dataset to annotate event-level moral opinions in news articles.
 
 <br/>
 
-## Dataset Sources
+# Dataset Sources
 
 We intentionally select three different components to form our dataset. Overall, the dataset comprises 400 news articles, 10k sentences and 283k words.
 
@@ -25,7 +25,7 @@ We intentionally select three different components to form our dataset. Overall,
 
 <br/>
 
-## Dataset Annotation
+# Dataset Annotation
 
 The annotators were instructed to annotate a plain article in two passes, identifying event mentions and assigning moral labels for events. Therefore, each word in an article receives one of the following twelve labels: **non-event** (not an event mention), **non-moral** (an event mention without moral opinions), **care**, **harm**, **fairness**, **cheating**, **loyalty**, **betrayal**, **authority**, **subversion**, **purity**, **degradation**. The latter ten labels correspond to the ten moral foundations in Moral Foundation Theory. If a word receives the care label, that means this word is an event mention that bears a moral opinion from care dimension. Similar for the other moral labels.
 
@@ -34,12 +34,12 @@ The annotators were instructed to annotate a plain article in two passes, identi
 
 <br/>
 
-## Dataset Instruction
+# Dataset Instruction
 
 
 <br/>
 
-## Citation
+# Citation
 
 If you are going to cite this paper, please use the form:
 
@@ -48,7 +48,7 @@ Yuanyuan Lei, Md Messal Monem Miah, Ayesha Qamar, Sai Ramana Reddy, Jonathan Ton
 
 <br/>
 
-## Reference
+# Reference
 
 [1] Ramy Baly, Giovanni Da San Martino, James Glass, and Preslav Nakov. 2020. We can detect your bias: Predicting the political ideology of news articles. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), pages 4982–4991, Online. Association for Computational Linguistics.<br/>
 
