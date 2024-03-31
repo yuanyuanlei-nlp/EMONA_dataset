@@ -71,7 +71,7 @@ The released dataset contains the following six folders:
 * "basil_sentence_level_annotations": the annotations for sentence-level media bias provided by the BASIL dataset
 * "sentences": the annotations for event-level moral opinions provided by the EMONA dataset
   * "sentence_id": the id of this sentence
-  * "sentence_start": the start character index of this sentence in the article txt file, the article txt file can be found in the articles folder
+  * "sentence_start": the start character index of this sentence in the article txt file
   * "sentence_end": the end character index of this sentence in the article txt file
   * "sentence_text": the text of this sentence
   * "tokens_list": the list of tokens in this sentence
@@ -90,7 +90,7 @@ The released dataset contains the following six folders:
   * "opinion_mentions": the polarity, trigger, and arguments of the opinion mentions
 * "sentences": the annotations for event-level moral opinions provided by the EMONA dataset
   * "sentence_id": the id of this sentence
-  * "sentence_start": the start character index of this sentence in the article txt file, the article txt file can be found in the articles folder
+  * "sentence_start": the start character index of this sentence in the article txt file
   * "sentence_end": the end character index of this sentence in the article txt file
   * "sentence_text": the text of this sentence
   * "tokens_list": the list of tokens in this sentence
