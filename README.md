@@ -29,7 +29,7 @@ We intentionally select three different components to form our dataset. Overall,
 
 ## Dataset Annotation
 
-The annotators were instructed to annotate a plain article in two passes, identifying event mentions and assigning moral labels for events. Therefore, each word in an article receives one of the following twelve labels: **non-event** (not an event mention), **non-moral** (an event mention without moral opinions), **care**, **harm**, **fairness**, **cheating**, **loyalty**, **betrayal**, **authority**, **subversion**, **purity**, **degradation**. The latter ten labels correspond to the ten moral foundations in Moral Foundation Theory. If a word receives the care label, that means this word is an event mention that bears a moral opinion from care dimension. Similar for the other moral labels.
+The annotators were instructed to annotate a plain article in two passes, identifying event mentions and assigning moral labels for events. Therefore, each word in an article receives one of the following twelve labels: **non-event** (not an event mention), **non-moral** (an event mention without moral opinions), **care**, **harm**, **fairness**, **cheating**, **loyalty**, **betrayal**, **authority**, **subversion**, **purity**, **degradation**. The latter ten labels correspond to the ten moral foundations in Moral Foundation Theory. If a word receives the care label, it indicates that this word is an event mention that bears a moral opinion from care dimension. Similar for the other moral labels.
 
 * **annotation_guideline.pdf**: We release the annotation guideline for the EMONA dataset.
 
