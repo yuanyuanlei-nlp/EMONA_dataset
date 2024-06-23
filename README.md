@@ -6,7 +6,7 @@
 **Accepted:** The 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024)<br/>
 **Authors:** Yuanyuan Lei, Md Messal Monem Miah, Ayesha Qamar, Sai Ramana Reddy, Jonathan Tong, Haotian Xu, Ruihong Huang<br/>
 **Affiliation:** Department of Computer Science and Engineering, Texas A&M University, College Station, Texas, USA<br/>
-**Paper Link:** https://arxiv.org/abs/2404.01715
+**Paper Link:** https://aclanthology.org/2024.naacl-long.293/
 
 <br/>
 
@@ -107,17 +107,29 @@ The released dataset contains the following six folders:
 
 If you are going to cite this paper, please use the form:
 
-Yuanyuan Lei, Md Messal Monem Miah, Ayesha Qamar, Sai Ramana Reddy, Jonathan Tong, Haotian Xu, and Ruihong Huang. 2024. EMONA: Event-level Moral Opinions in News Articles. In Proceedings of the 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), Mexico City, Mexico. Association for Computational Linguistics.
-
+Yuanyuan Lei, Md Messal Monem Miah, Ayesha Qamar, Sai Ramana Reddy, Jonathan Tong, Haotian Xu, and Ruihong Huang. 2024. EMONA: Event-level Moral Opinions in News Articles. In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers), pages 5239–5251, Mexico City, Mexico. Association for Computational Linguistics.
 
 ```bibtex
-@misc{lei2024emona,
-      title={EMONA: Event-level Moral Opinions in News Articles}, 
-      author={Yuanyuan Lei and Md Messal Monem Miah and Ayesha Qamar and Sai Ramana Reddy and Jonathan Tong and Haotian Xu and Ruihong Huang},
-      year={2024},
-      eprint={2404.01715},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{lei-etal-2024-emona,
+    title = "{EMONA}: Event-level Moral Opinions in News Articles",
+    author = "Lei, Yuanyuan  and
+      Miah, Md Messal Monem  and
+      Qamar, Ayesha  and
+      Reddy, Sai Ramana  and
+      Tong, Jonathan  and
+      Xu, Haotian  and
+      Huang, Ruihong",
+    editor = "Duh, Kevin  and
+      Gomez, Helena  and
+      Bethard, Steven",
+    booktitle = "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.naacl-long.293",
+    pages = "5239--5251",
+    abstract = "Most previous research on moral frames has focused on social media short texts, little work has explored moral sentiment within news articles. In news articles, authors often express their opinions or political stance through moral judgment towards events, specifically whether the event is right or wrong according to social moral rules. This paper initiates a new task to understand moral opinions towards events in news articles. We have created a new dataset, EMONA, and annotated event-level moral opinions in news articles. This dataset consists of 400 news articles containing over 10k sentences and 45k events, among which 9,613 events received moral foundation labels. Extracting event morality is a challenging task, as moral judgment towards events can be very implicit. Baseline models were built for event moral identification and classification. In addition, we also conduct extrinsic evaluations to integrate event-level moral opinions into three downstream tasks. The statistical analysis and experiments show that moral opinions of events can serve as informative features for identifying ideological bias or subjective events.",
 }
 ```
 
